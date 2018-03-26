@@ -1,2 +1,2 @@
 <?php
-Função Arquivo 2
+//Função Arquivo 2
